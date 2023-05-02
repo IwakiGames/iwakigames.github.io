@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style bx:fonts="ZCOOL KuaiLe">@import url(https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe%3Aital%2Cwght%400%2C400&amp;display=swap);</style>
+  </defs>
+  <ellipse style="stroke-width: 0px; stroke: rgb(15, 15, 15); paint-order: fill; fill: rgb(9, 9, 9);" cx="150" cy="150" rx="150" ry="150"/>
+  <ellipse style="stroke-width: 0px; stroke: rgb(15, 15, 15); paint-order: fill; fill: rgb(9, 9, 9);" cx="850" cy="150" rx="150" ry="150"/>
+  <rect x="150" width="699" height="300" style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: rgb(9, 9, 9);" bx:origin="0.5 0.5"/>
+  <text style="fill: rgb(255, 255, 255); font-family: &quot;ZCOOL KuaiLe&quot;; font-size: 90px; paint-order: stroke; stroke: rgb(153, 1, 1); stroke-width: 7px; white-space: pre;" x="55" y="174.186">PROJECT KOWLOON</text>
+</svg>
